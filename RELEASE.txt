@@ -1,0 +1,22 @@
+RELEASE NOTES
+==============
+
+# Intended to sum-up release state , fixed bugs, new features and changes
+# This package will be updated as much possible due to potential html references change from yahoo finance website.
+
+===================================================================================================================
+# Release Date : 20/03/2021
+# Author : Mehdi GHAOUTI
+# Contributor : -
+# version : 0.0.1 (Initial)
+
+- Features are in the README.txt file, make sure you read it !
+===================================================================================================================
+
+
+
+===================================================================================================================
+Data Source Credit : Yahoo Finance 2021
+
+All provided data come from finance.yahoo.com . Live prices and other features may be subject to delays due to market place and licence.
+In the event that this package is used to build a trading bot, I do not take responsibility for any loss that might results from faulty feature.
