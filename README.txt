@@ -35,7 +35,7 @@ Functions list to be used such as above:
     get_open(ticker, num)
     get_volume(ticker, num)
     get_avg_volume(ticker, num)
-    get_beta(ticker, num) # this function prints out all of the above including the price
+    get_beta(ticker, num) 
 
 
 Development
