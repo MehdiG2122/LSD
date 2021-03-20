@@ -18,7 +18,7 @@ Installation
 How to use it
 -------------
 
-1. Import LSDyf
+1. from LSDyf import *
 2. Use as follow:
 ticker = "GE"    #For general electic in this example. A full list with all yahoo finance tickers is provided
 num = "0"        # If num is 0 then you'll have the results displayed with extra info like a text that specifies the output. If num is 1 , you'll get the raw data without any extra info, usually if calculation is engaged.
