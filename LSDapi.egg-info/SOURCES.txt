@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.txt
+RELEASE.txt
+setup.py
+LSDapi/__init__.py
+LSDapi.egg-info/PKG-INFO
+LSDapi.egg-info/SOURCES.txt
+LSDapi.egg-info/dependency_links.txt
+LSDapi.egg-info/requires.txt
+LSDapi.egg-info/top_level.txt
