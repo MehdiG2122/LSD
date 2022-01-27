@@ -1,6 +1,6 @@
 README
 -------------
-Author/Developer: Mehdi GHAOUTI / Eliptix
+Author/Developer: Mehdi GHAOUTI 
 contact: ghaouti.mehdi@gmail.com
 
 What Is This?
